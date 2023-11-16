@@ -30,7 +30,7 @@ Website Output on Tomcat Server
 ![tomcat website auto](https://github.com/bansallove/DevOps-Project-CICD-/assets/145134848/19dd7a45-f93a-4658-8d28-12bb687c9743)
 
 
-Console Output After deploying Application on Docke Container
+Console Output After deploying Application on Docker Container
 
 ![console output docker](https://github.com/bansallove/DevOps-Project-CICD-/assets/145134848/17960996-7911-4459-acb7-b7e04d49ccc3)
 
