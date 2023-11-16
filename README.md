@@ -5,11 +5,11 @@ Console Output After deploying Application on Tomcat server
 
 ![console output tomcat manual](https://github.com/bansallove/DevOps-Project-CICD-/assets/145134848/c5291150-5ee4-42bd-93c1-01beace0373a)
 
-
+Job Status after deploying Application on Tomcat Server
 
 ![job1](https://github.com/bansallove/DevOps-Project-CICD-/assets/145134848/ca4b9781-e96d-4dae-ac4a-c5e6f17a6a20)
 
-
+Buildanddeployjob
 
 ![job2](https://github.com/bansallove/DevOps-Project-CICD-/assets/145134848/9dde1a01-fc6f-4cb3-8b16-cb37c7d8c0d8)
 
@@ -17,11 +17,11 @@ Website Output on Tomcat Server
 
 ![tomcat website manual](https://github.com/bansallove/DevOps-Project-CICD-/assets/145134848/f39cb1ce-37d2-4616-be11-f17aea61e542)
 
-Console Output On Tomcat Server after making it automic using Poll SCM
+Console Output On Tomcat Server after making it automatic using Poll SCM
 
 ![console output tomcat auto](https://github.com/bansallove/DevOps-Project-CICD-/assets/145134848/554e6a19-55a6-44e5-b914-d9e60999744c)
 
-
+Job Status after deploying Application on Tomcat Server
 
 ![job status after auto](https://github.com/bansallove/DevOps-Project-CICD-/assets/145134848/463704ce-e92e-44d3-bb4c-d65a823cf63d)
 
